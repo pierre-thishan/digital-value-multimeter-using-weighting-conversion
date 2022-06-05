@@ -1,7 +1,5 @@
 /*
- * HAW Hamburg IE
- * MCL_3
- * Task 1
+ * Weighting conversion method implementation and displaying using a BCD display
  * @author: Thishan Warnakulasooriya
  * @date: 23.05.2022
  */
